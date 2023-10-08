@@ -7,13 +7,13 @@ This project is a FastAPI application that provides a RESTful API for managing s
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/shyamenk/Part-2-Backend.git
+   git clone https://github.com/shyamenk/student-Grade-system-fastAPI.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd Part-2-Backend
+   cd student-Grade-system-fastAPI
    ```
 
 3. **Rename `.env.local` to `.env` and add your environment variables**:
